@@ -1,0 +1,3 @@
+[submodule "Udacity-serverless-app"]
+	path = Udacity-serverless-app
+	url = https://github.com/OREM1/Udacity-serverless-app.git
